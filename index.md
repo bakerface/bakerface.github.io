@@ -42,7 +42,7 @@
 - Contributed in daily stand-up meetings to review the status of bugs and features.
 - Disclosed several patents, of which two were filed: [US20140173049](http://www.google.com/patents/US20140173049), [US20140140355](http://www.google.com/patents/US20140140355)
 
-**Lead Software Architect, Advanced Systems, 2013-Now**
+**Lead Software Architect, Advanced Systems, 2013-2015**
 - Primary responsibilities included Appliance-to-Cloud features and patent generation.
 - Created web applications for time-based and event-based scheduling of features.
 - Designed algorithms for time synchronization and reliable message delivery.
@@ -55,6 +55,13 @@
 - Received 3E Award for External Focus from GE Appliances (2014 and 2015).
 - Unveiled [FirstBuild](https://firstbuild.com) and [Green Bean](https://firstbuild.com/greenbean) at [Makercon](http://makercon.com) 2014.
 
+#### [FirstBuild](http://www.firstbuild.com)
+**Lead Software Architect, 2015-Now**
+- Primary responsibilities included embedded firmware development and API development.
+- Developed firmware for Wi-Fi Connected Refrigerators and peripherals.
+- Developed the API for a new [co-creation website](https://cocreate.firstbuild.com) and its associated mobile apps.
+- Worked closely with the user community to gather requirements and drive value features.
+
 #### [Personal](https://github.com/bakerface)
 **Hacker, Maker, Software Junkie, 1987-Now**
 - I spend several hours every day working on personal projects.
@@ -62,6 +69,6 @@
 - I love to create my own languages and compilers (see [ion](https://github.com/bakerface/ion), [jsun](https://github.com/bakerface/jsun), and [ladder logic](https://github.com/bakerface/ll)).
 - I enjoy operating system development and browse [osdev](http://wiki.osdev.org) for inspiration.
 - I am always curious how things work and reverse engineering protocols to learn.
-- I am a [KISS](http://en.wikipedia.org/wiki/KISS_principle) purist, and think that everything should have a simple, reusable API.
-- Created a test-driven development framework for ANSI C and C++ called [jasmine](https://github.com/bakerface/jasmine).
-- Developing the [nitrus](https://github.com/bakerface/nitrus) C++ framework, [e3](https://github.com/bakerface/e3) C framework, and [jex](https://github.com/bakerface/jex) JavaScript package.
+- I believe in [KISS](http://en.wikipedia.org/wiki/KISS_principle).
+- I created a test-driven development framework for ANSI C and C++ called [jasmine](https://github.com/bakerface/jasmine).
+- I am developing the [nitrus](https://github.com/bakerface/nitrus) C++ framework, [e3](https://github.com/bakerface/e3) C framework, and [jex](https://github.com/bakerface/jex) JavaScript package.
