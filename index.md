@@ -56,19 +56,27 @@
 - Unveiled [FirstBuild](https://firstbuild.com) and [Green Bean](https://firstbuild.com/greenbean) at [Makercon](http://makercon.com) 2014.
 
 #### [FirstBuild](http://www.firstbuild.com)
-**Lead Software Architect, 2015-Now**
+**Lead Software Architect, FirstBuild, 2015-2016**
 - Primary responsibilities included embedded firmware development and API development.
 - Developed firmware for Wi-Fi Connected Refrigerators and peripherals.
-- Developed the API for a new [co-creation website](https://cocreate.firstbuild.com) and its associated mobile apps.
+- Developed the API for a new [co-creation website](https://cocreate.firstbuild.com) called Giddy.
 - Worked closely with the user community to gather requirements and drive value features.
+- Served as on-site software support at public FirstBuild hackathons.
+- Created an Arduino port of the [Green Bean](https://firstbuild.com/greenbean) for rapid prototyping appliance features.
+
+#### [Giddy](http://www.giddy.io)
+**Senior Software Engineer, 2016-Now**
+- Primary responsibilities included website and mobile application development.
+- Developed a challenge platform to allow users to show off their work and compete for prizes.
+- Created software experiments and AB tests to discover new features.
+- Created an internal analytics dashboard for measuring key performance indicators and identify new issues.
+- Contributed to the React Native community by posting in forums and fixing issues in open source packages.
 
 #### [Personal](https://github.com/bakerface)
 **Hacker, Maker, Software Junkie, 1987-Now**
-- I spend several hours every day working on personal projects.
-- My favorite languages are x86 Assembly, C, C++, C#, Java, JavaScript, and Lisp.
-- I love to create my own languages and compilers (see [ion](https://github.com/bakerface/ion), [jsun](https://github.com/bakerface/jsun), and [ladder logic](https://github.com/bakerface/ll)).
-- I enjoy operating system development and browse [osdev](http://wiki.osdev.org) for inspiration.
-- I am always curious how things work and reverse engineering protocols to learn.
-- I believe in [KISS](http://en.wikipedia.org/wiki/KISS_principle).
-- I created a test-driven development framework for ANSI C and C++ called [jasmine](https://github.com/bakerface/jasmine).
-- I am developing the [nitrus](https://github.com/bakerface/nitrus) C++ framework, [e3](https://github.com/bakerface/e3) C framework, and [jex](https://github.com/bakerface/jex) JavaScript package.
+- I spend a few hours of my free time every day working on personal projects.
+- My favorite languages are x86 Assembly, C, C++, C#, Java, JavaScript, Lisp, and TypeScript.
+- I enjoy creating new languages and compilers (see [ion](https://github.com/bakerface/ion), [jsun](https://github.com/bakerface/jsun), and [ladder logic](https://github.com/bakerface/ll)).
+- I find operating system development exciting and browse [osdev](http://wiki.osdev.org) for inspiration.
+- I love to figure out how things work, and reverse engineering protocols to learn.
+- I believe in [KISS](http://en.wikipedia.org/wiki/KISS_principle) and [TDD](https://en.wikipedia.org/wiki/Test-driven_development).
