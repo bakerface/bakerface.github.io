@@ -2,7 +2,7 @@ title: Christopher M. Baker
 description: mail.chris.baker@gmail.com
 google_analytics: UA-54784747-1
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
